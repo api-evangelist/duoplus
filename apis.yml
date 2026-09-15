@@ -1,0 +1,53 @@
+name: DuoPlus Cloud Phone
+description: >-
+  Anti-detection cloud-phone platform for multi-account management, social-media marketing, and mobile automation.
+  Provides cloud-hosted ARM Android instances, cloud numbers, proxy management, RPA/batch control, team collaboration,
+  and a REST/JSON API for programmatic control.
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/duoplus-cloud-phone-anti-detection-cloud-phone-mobile-multi-/refs/heads/main/apis.yml
+created: '2026-09-15'
+modified: '2026-09-15'
+specificationVersion: '0.21'
+tags:
+  - cloud-phone
+  - anti-detect
+  - multi-account-management
+  - mobile-automation
+  - android-cloud
+  - proxy-management
+  - social-media-marketing
+  - tiktok-operations
+  - rpa
+  - virtual-phone-numbers
+apis:
+  - name: DuoPlus Cloud Phone API
+    description: >-
+      Hosted REST/JSON API (POST-based RPC) for controlling cloud phones, proxies, groups, applications, cloud drive,
+      automation, teams, and cloud numbers. Authenticated via DuoPlus-API-Key request header. QPS limit of 1
+      request/second per interface.
+    humanURL: https://help.duoplus.net/docs/api-reference
+    baseURL: https://openapi.duoplus.net
+    tags:
+      - cloud-phone
+      - anti-detect
+      - multi-account-management
+      - mobile-automation
+      - android-cloud
+      - proxy-management
+      - social-media-marketing
+      - tiktok-operations
+      - rpa
+      - virtual-phone-numbers
+    properties:
+      - type: Documentation
+        url: https://help.duoplus.net/docs/api-reference
+      - type: LLMsTxt
+        url: https://www.duoplus.net/llms.txt
+maintainers:
+  - FN: DuoPlus Cloud Phone
+    url: https://www.duoplus.net
+generated:
+  by: apis.io/add
+  model: claude-opus-4-8
+  confidence: 90
+  at: '2026-09-15T02:17:41.633Z'
