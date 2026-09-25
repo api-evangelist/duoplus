@@ -1,15 +1,9 @@
-# DuoPlus — not listed
+# DuoPlus Cloud Phone — DELISTED
 
-DuoPlus was auto-published by the apis.io Add-API gate and **removed on 2026-09-11**
-after review, as a policy decision about what the service is for.
+This company is **not listed** in the API Evangelist catalog. The profile remains public so the
+decision is visible rather than quietly vanishing, but it is not a listing, carries no rating, and
+is not part of the catalog's indexes.
 
-DuoPlus is an anti-detection "cloud phone" platform for running many accounts on a
-platform while evading that platform's anti-abuse detection. API Evangelist does not
-catalog services whose purpose is circumventing a platform's terms of service — the same
-basis on which we decline other abuse-oriented services.
+Decision: 2026-09-25, reviewed and declined.
 
-This is a decision about the service's purpose, not the quality of its API. It is
-recorded on the permanent do-not-list registry
-([`network/_data/delisted.yml`](https://github.com/api-search/network/blob/main/network/_data/delisted.yml)).
-
-Questions: kin@apievangelist.com.
+A further submission is reviewed by a person each time rather than refused on the basis of this file.
